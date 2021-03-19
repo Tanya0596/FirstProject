@@ -1,0 +1,13 @@
+$color : red;
+$text-color : #000;
+$heading : #fff;
+
+body{
+    background-color: $color;
+}
+h1{
+    color: $heading;
+}
+p{
+    color: $text-color;
+}
